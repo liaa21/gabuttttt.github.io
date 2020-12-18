@@ -1,0 +1,6 @@
+Git init
+Git add .
+Git commit -m "first commit"
+Git remote add origin
+https://github.com/liaa21/gabuttttt.git
+Git push -u origin master
